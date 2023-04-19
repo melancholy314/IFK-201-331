@@ -1,0 +1,74 @@
+{
+    "credentials": [
+        {
+            "login": "log1",
+            "password": "pass1",
+            "site": "https://site1.com"
+        },
+        {
+            "login": "log2",
+            "password": "pass2",
+            "site": "https://site2.com"
+        },
+        {
+            "login": "log3",
+            "password": "pass3",
+            "site": "https://site3.com"
+        },
+        {
+            "login": "log4",
+            "password": "pass4",
+            "site": "https://site4.com"
+        },
+        {
+            "login": "log5",
+            "password": "pass5",
+            "site": "https://site5.com"
+        },
+        {
+            "login": "log6",
+            "password": "pass6",
+            "site": "https://site6.com"
+        },
+        {
+            "login": "log7",
+            "password": "pass7",
+            "site": "https://site7.com"
+        },
+        {
+            "login": "log8",
+            "password": "pass8",
+            "site": "https://site8.com"
+        },
+        {
+            "login": "log9",
+            "password": "pass9",
+            "site": "https://site9.com"
+        },
+        {
+            "login": "log10",
+            "password": "pass10",
+            "site": "https://site10.com"
+        },
+        {
+            "login": "log11",
+            "password": "pass11",
+            "site": "https://site11.com"
+        },
+        {
+            "login": "log12",
+            "password": "pass12",
+            "site": "https://site12.com"
+        },
+        {
+            "login": "log13",
+            "password": "pass13",
+            "site": "https://site13.com"
+        },
+        {
+            "login": "log14",
+            "password": "pass14",
+            "site": "https://site14.com"
+        }
+    ]
+}
